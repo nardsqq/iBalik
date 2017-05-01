@@ -6,6 +6,8 @@ Please make sure that you have Laravel on your local machine before cloning or d
 
 ## Database
 
+### Via Forward Engineering (.mwb)
+
 For the meantime, we'll be using the .mwb file attached within the project folder for our database. If you have MySQL Workbench, just open the .mwb file with it.
 
 1. Open *dblfs.mwb* with Workbench.
@@ -13,6 +15,12 @@ For the meantime, we'll be using the .mwb file attached within the project folde
 3. After starting your local server's MySQL service, go back to MySQL Workbench.
 4. Hit Ctrl + G (Shortcut for *Forward Engineer*) or via *Database* > *Forward Engineer* on your toolbar/ribbon.
 5. This will forward engineer the schema and it will make the database accessible through phpMyAdmin.
+
+### Via Migration
+
+Migration is the recommended procedure to accomplish the task of creating our tables.
+1. Open the terminal/cmd, access the project folder directory.
+2. Start migration with the "php artisan:migrate" artisan command.
 
 ## Accessing the Web Application
 
