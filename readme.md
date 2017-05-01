@@ -30,4 +30,4 @@ Migration is the recommended procedure to accomplish the task of creating our ta
 3. Start your local server with the "php artisan serve" artisan command.
 4. Open any modern browsers (Chrome, Firefox, Edge etc) and access the application by typing http://localhost:8000/ on your address bar.
 
-If you have some questions please do ask and I'll be glad to help.
+If you have some questions feel free to [ask](https://github.com/nardsqq/iBalik/issues) and I'll be glad to help.
