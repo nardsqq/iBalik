@@ -1,4 +1,4 @@
-## About LFMS
+## About iBalik
 
 iBalik is a web application with simple but clean *Laravel* syntax. It's a simple web application submitted to a Web Development course as a final requirement. Other than that reason, it also serves as a practice medium to learn how to integrate CRUD into a *Laravel* project.
 
@@ -17,7 +17,8 @@ For the meantime, we'll be using the .mwb file attached within the project folde
 ## Accessing the Web Application
 
 1. After *forward engineering*, open the terminal on your computer.
-2. Start your local server with the "php artisan serve" artisan command.
-3. Open any modern browsers (Chrome, Firefox, Edge etc) and access the application by typing http://localhost:8000/ on your address bar.
+2. Generate a new APP_KEY via "php artisan key:generate" artisan command.
+3. Start your local server with the "php artisan serve" artisan command.
+4. Open any modern browsers (Chrome, Firefox, Edge etc) and access the application by typing http://localhost:8000/ on your address bar.
 
 If you have some questions please do ask and I'll be glad to help.
