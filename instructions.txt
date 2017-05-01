@@ -1,0 +1,7 @@
+1. Open dblfs.mwb
+2. Once loading is done, hit ctrl+g to forward engineer the said database model.
+3. Run xampp, start mysql.
+4. Check and modify .env to your database/server settings.
+5. Open terminal/git-bash/cmd.
+6. Run "php artisan serve"
+7. Type "localhost:8000" on a browser tab and it'll redirect you into the homepage of the system.
