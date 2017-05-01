@@ -19,8 +19,9 @@ For the meantime, we'll be using the .mwb file attached within the project folde
 ### Via Migration
 
 Migration is the recommended procedure to accomplish the task of creating our tables.
-1. Open the terminal/cmd, access the project folder directory.
-2. Start migration with the "php artisan migrate" artisan command.
+1. Create a database named "dblfs".
+2. Open the terminal/cmd, access the project folder directory.
+3. Start migration with the "php artisan migrate" artisan command.
 
 ## Accessing the Web Application
 
