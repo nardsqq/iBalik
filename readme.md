@@ -1,4 +1,4 @@
-## About LFMS
+## About iBalik
 
 iBalik is a web application with simple but clean *Laravel* syntax. It's a simple web application submitted to a Web Development course as a final requirement. Other than that reason, it also serves as a practice medium to learn how to integrate CRUD into a *Laravel* project.
 
