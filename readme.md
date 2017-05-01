@@ -20,7 +20,7 @@ For the meantime, we'll be using the .mwb file attached within the project folde
 
 Migration is the recommended procedure to accomplish the task of creating our tables.
 1. Open the terminal/cmd, access the project folder directory.
-2. Start migration with the "php artisan:migrate" artisan command.
+2. Start migration with the "php artisan migrate" artisan command.
 
 ## Accessing the Web Application
 
