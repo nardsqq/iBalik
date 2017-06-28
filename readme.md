@@ -23,7 +23,7 @@ Migration is the recommended procedure to accomplish the task of creating our ta
 2. Open the terminal/cmd, access the project folder directory.
 3. Start migration with the "php artisan migrate" artisan command.
 
-## Accessing the Web Application
+## Getting Started
 
 1. After *forward engineering*, open the terminal on your computer.
 2. Generate a new APP_KEY via "php artisan key:generate" artisan command.
