@@ -5,3 +5,5 @@
 .form-spacing-top {
 	margin-top: 10px;
 }
+
+textarea { resize: none; }
