@@ -1,4 +1,6 @@
-## About iBalik
+<p align="center"><a href="https://codebeat.co/projects/github-com-nardsqq-ibalik-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c74f73cb-edcc-405d-9095-7cf47ef24f8e" /></a></p>
+
+## About iBalik 
 
 iBalik is a web application with simple but clean *Laravel* syntax. It's a simple web application submitted to a Web Development course as a final requirement. Other than that reason, it also serves as a practice medium to learn how to integrate CRUD into a *Laravel* project.
 
