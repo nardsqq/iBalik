@@ -1,4 +1,12 @@
-<p align="center"><a href="https://codebeat.co/projects/github-com-nardsqq-ibalik-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c74f73cb-edcc-405d-9095-7cf47ef24f8e" /></a></p>
+<p align="center"><a href="https://codebeat.co/projects/github-com-nardsqq-ibalik-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c74f73cb-edcc-405d-9095-7cf47ef24f8e" /></a> 
+</p>
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+
+
+
+
 
 ## About iBalik 
 
