@@ -1,4 +1,6 @@
-## About iBalik
+<p align="center"><a href="https://github.com/nardsqq/iBalik"><img alt="iBalik dev badge" src="https://img.shields.io/badge/project-under--development-orange.svg"/></a> <a href="https://github.com/nardsqq/iBalik/issues"><img src ="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a> <a href="https://codebeat.co/projects/github-com-nardsqq-ibalik-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c74f73cb-edcc-405d-9095-7cf47ef24f8e"/></a> <a href="https://github.com/nardsqq/iBalik"><img src="https://img.shields.io/badge/progress-39%25-brightgreen.svg"></img></a> <a href="https://github.com/nardsqq/iBalik/issues"><img src="https://img.shields.io/github/issues-raw/badges/shields/website.svg"></img></a></p>
+
+## About iBalik 
 
 iBalik is a web application with simple but clean *Laravel* syntax. It's a simple web application submitted to a Web Development course as a final requirement. Other than that reason, it also serves as a practice medium to learn how to integrate CRUD into a *Laravel* project.
 
@@ -23,7 +25,7 @@ Migration is the recommended procedure to accomplish the task of creating our ta
 2. Open the terminal/cmd, access the project folder directory.
 3. Start migration with the "php artisan migrate" artisan command.
 
-## Accessing the Web Application
+## Getting Started
 
 1. After *forward engineering*, open the terminal on your computer.
 2. Generate a new APP_KEY via "php artisan key:generate" artisan command.
